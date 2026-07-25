@@ -1,0 +1,39 @@
+{
+    "Version": "1.0.0",
+
+    "Install": {
+        "Gaming": true,
+        "Developer": true,
+        "Utilities": true,
+        "Drivers": true,
+        "Runtimes": true,
+        "Tweaks": true,
+        "Restore": true
+    },
+
+    "Gaming": {
+        "Steam": true,
+        "Riot": true,
+        "Ubisoft": true,
+        "Xbox": true,
+        "BattleNet": false,
+        "Epic": false,
+        "EA": false
+    },
+
+    "Developer": {
+        "Git": true,
+        "GitHubDesktop": true,
+        "Python": true,
+        "VSCode": true,
+        "Node": true,
+        "Java": true,
+        "Docker": false
+    },
+
+    "UI": {
+        "Color": true,
+        "Progress": true,
+        "Animations": true
+    }
+}
